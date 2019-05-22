@@ -1,0 +1,37 @@
+Book Details 
+
+Book Id     :1
+Book Name   :'oop'
+Author      :'balaguruswamy'
+Publication :'McGraw-Hill'
+Edition     :6
+NO of books :5
+
+Book Id     :2
+Book Name   :'Discretre Mathmatics'
+Author      :'Benjamin'
+Publication :'Teaching Company'
+Edition     :5
+NO of books :9
+
+Book Id     :3
+Book Name   :'Himu'
+Author      :'humayan ahmed'
+Publication :'Seba'
+Edition     :1
+NO of books :5
+
+Book Id     :4
+Book Name   :'misir ali'
+Author      :'humayon ahmed'
+Publication :'seba'
+Edition     :1
+NO of books :1
+
+Book Id     :5
+Book Name   :'Numerical Analysis'
+Author      :'A.R VasishTha'
+Publication :'Nath'
+Edition     :2
+NO of books :3
+
